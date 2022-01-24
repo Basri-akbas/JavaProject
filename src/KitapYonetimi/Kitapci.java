@@ -28,6 +28,7 @@ public class Kitapci {
     // static int kitapNo = 1000;
 
     public static void main(String[] args) {
+
         KitapMethod.kitaplarEkle(kitapListe);
 
         Kitap manuelKitap = new Kitap();
